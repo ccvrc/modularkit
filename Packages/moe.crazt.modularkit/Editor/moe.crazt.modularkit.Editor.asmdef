@@ -1,0 +1,14 @@
+{
+  "name": "moe.crazt.modularkit.Editor",
+  "references": [
+    "moe.crazt.modularkit"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

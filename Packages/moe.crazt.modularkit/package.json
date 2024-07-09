@@ -1,0 +1,16 @@
+{
+  "name": "moe.crazt.modularkit",
+  "displayName": "moe.crazt.modularkit",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "crazt",
+    "email": "i@crazt.moe"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\Git\\VRC\\cc-tools\\Packages\\moe.crazt.modularkit"
+}
