@@ -1,8 +1,8 @@
 {
   "name": "moe.crazt.modularkit",
   "displayName": "ModularKit",
-  "version": "0.0.2",
-  "description": "Describe this Package",
+  "version": "0.0.3",
+  "description": "ModularKit Collection",
   "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {},
